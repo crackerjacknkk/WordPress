@@ -43,3 +43,29 @@ a.wp-block-post-excerpt__more-link:hover {
 figcaption.wp-element-caption {
     color: black;
 }
+
+/* Our services content */
+.wp-block-media-text.is-stacked-on-mobile.has-base-2-color.has-text-color.has-background.has-link-color.wp-elements-043264f437967b3e07b6d48050d436f6 {
+    background-color: #f6ff7b !important;
+    border: #000000 solid 3px;
+}
+.wp-block-media-text.is-stacked-on-mobile.has-base-2-color.has-text-color.has-background.has-link-color.wp-elements-043264f437967b3e07b6d48050d436f6 img {
+    border-right: black solid 3px;
+}
+.wp-block-media-text.has-media-on-the-right.is-stacked-on-mobile.has-base-2-color.has-text-color.has-background.has-link-color.wp-elements-40b0453b0b2b71b204ff782a48081bcf {
+    background-color: #7abfff !important;
+    border: #000000 solid 3px;
+}
+.wp-block-media-text.has-media-on-the-right.is-stacked-on-mobile.has-base-2-color.has-text-color.has-background.has-link-color.wp-elements-89a1e0bbf6cb494a73f02c920b89dd85 {
+    background-color: #7aff90 !important;
+    border: #000000 solid 3px;
+}
+.wp-block-media-text.is-stacked-on-mobile.has-base-2-color.has-text-color.has-background.has-link-color.wp-elements-099f5a5460ffec818cc9e3faab88371c {
+    background-color: #b581fd !important;
+    border: black solid 3px;
+    padding: 0%;
+}
+.wp-block-media-text.is-stacked-on-mobile.has-base-2-color.has-text-color.has-background.has-link-color.wp-elements-099f5a5460ffec818cc9e3faab88371c img {
+    border-right: black solid 3px;
+    height: 50vh;
+}
