@@ -69,3 +69,16 @@ figcaption.wp-element-caption {
     border-right: black solid 3px;
     height: 50vh;
 }
+
+/* Homepage button */
+.wp-block-button__link.wp-element-button {
+    color: white;
+    border: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.wp-block-button__link.wp-element-button:hover {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: rgb(0, 27, 115) solid 2px;
+}
