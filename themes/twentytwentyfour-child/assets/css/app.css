@@ -112,3 +112,20 @@ figcaption.wp-element-caption {
 .wp-block-group.has-global-padding.is-layout-constrained.wp-container-core-group-is-layout-5.wp-block-group-is-layout-constrained P{
     color: black !important;
 }
+
+/* Calender */
+/* Calender head background */
+:where(.wp-block-calendar table:not(.has-background) th){
+    background: #fff;
+}
+/* Calender text */
+.wp-block-calendar table.has-text-color th{
+    color:#243e86;
+}
+/* Calender background */
+#wp-calendar{
+    background-color: #ff6074;
+}
+
+
+
