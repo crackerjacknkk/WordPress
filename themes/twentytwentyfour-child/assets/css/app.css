@@ -151,6 +151,11 @@ a:where(:not(.wp-element-button)) {
     background-color: #feffd7 !important;
     margin-bottom: 0;
 }
+/* Helpline  */
+.wp-block-group.has-background.has-global-padding.is-layout-constrained.wp-container-core-group-is-layout-9.wp-block-group-is-layout-constrained {
+    background-color: rgb(255, 123, 123) !important;
+    border: solid 2px black !important;
+}
 
 
 
