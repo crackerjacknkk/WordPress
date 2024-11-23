@@ -1,4 +1,4 @@
-/* Homepage */
+/* ?Homepage */
 /* Header */
 header > div.has-background {
     background-color: #170046 !important;
@@ -93,7 +93,7 @@ figcaption.wp-element-caption {
 }
 
 
-/* About page */
+/*? About page */
 /* Main content */
 .has-contrast-2-background-color.has-background {
     background-color: #243e86 !important;
@@ -102,7 +102,7 @@ figcaption.wp-element-caption {
     border-radius: 3px !important;
 }
 
-/* Blog */
+/*? Blog page */
 /* Welcome heading */
 .wp-block-heading.has-text-align-center.is-style-default.has-background.has-x-large-font-size {
     background-color: #ff6074 !important;
@@ -138,6 +138,11 @@ a:where(:not(.wp-element-button)) {
 }
 .wp-container-core-post-template-is-layout-1 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+/*? Contact page*/
+.wp-block-group.has-base-2-color.has-text-color.has-background.has-link-color.wp-elements-e07668afcc7a37c24479ce5997deec63.has-global-padding.is-layout-constrained.wp-container-core-group-is-layout-6.wp-block-group-is-layout-constrained p {
+    color: white;
 }
 
 
