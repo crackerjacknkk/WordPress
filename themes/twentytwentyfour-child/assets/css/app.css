@@ -1,3 +1,10 @@
+/* Homepage */
+/* Header */
 header > div.has-background {
-    background-color: #250070 !important;
+    background-color: #170046 !important;
+}
+
+/* Footer */
+footer > div.has-background  {
+    background-color: #170046 !important;
 }
