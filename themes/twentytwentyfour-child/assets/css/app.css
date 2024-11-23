@@ -127,5 +127,11 @@ figcaption.wp-element-caption {
     background-color: #ff6074;
 }
 
+/* Navigation */
+.wp-calendar-nav-prev a {
+    color: black !important;
+}
+
+
 
 
