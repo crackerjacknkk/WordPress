@@ -132,6 +132,14 @@ figcaption.wp-element-caption {
     color: black !important;
 }
 
+/* Post page */
+a:where(:not(.wp-element-button)) {
+    color: black;
+}
+.wp-container-core-post-template-is-layout-1 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 
 
 
