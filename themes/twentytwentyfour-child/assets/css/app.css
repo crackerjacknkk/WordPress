@@ -183,6 +183,15 @@ div > .wp-block-post-author-name a {
     background-color: rgb(255, 123, 123) !important;
 }
 
+/* Testimonial */
+.wp-block-quote.has-background.is-layout-flow.wp-block-quote-is-layout-flow {
+    background-color: white !important; 
+    border: 2px solid black !important;
+    font-size: 25px !important;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
 
 
 
