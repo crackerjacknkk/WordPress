@@ -91,3 +91,13 @@ figcaption.wp-element-caption {
 .wp-block-query-pagination-previous {
     color: black;
 }
+
+
+/* About page */
+/* Main content */
+.has-contrast-2-background-color.has-background {
+    background-color: #243e86 !important;
+    color: white !important;
+    padding: 5% !important;
+    border-radius: 3px !important;
+}
