@@ -178,6 +178,11 @@ div > .wp-block-post-author-name a {
     color: black !important;
 }
 
+/* Post table */
+.has-contrast-color.has-text-color.has-background.has-link-color.has-fixed-layout {
+    background-color: rgb(255, 123, 123) !important;
+}
+
 
 
 
