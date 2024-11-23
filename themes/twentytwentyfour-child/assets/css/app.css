@@ -30,3 +30,11 @@ p.has-text-align-center {
     text-align: center;
     color: white;
 }
+
+/* link text */
+a.wp-block-post-excerpt__more-link {
+    color: black;
+}
+a.wp-block-post-excerpt__more-link:hover {
+    color: rgb(255, 0, 0);
+}
