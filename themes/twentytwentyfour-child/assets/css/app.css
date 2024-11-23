@@ -107,3 +107,8 @@ figcaption.wp-element-caption {
 .wp-block-heading.has-text-align-center.is-style-default.has-background.has-x-large-font-size {
     background-color: #ff6074 !important;
 }
+
+/* Text */
+.wp-block-group.has-global-padding.is-layout-constrained.wp-container-core-group-is-layout-5.wp-block-group-is-layout-constrained P{
+    color: black !important;
+}
