@@ -8,3 +8,9 @@ header > div.has-background {
 footer > div.has-background  {
     background-color: #170046 !important;
 }
+
+/* Body */
+body{
+    background-color: antiquewhite;
+    color: black !important;
+}
