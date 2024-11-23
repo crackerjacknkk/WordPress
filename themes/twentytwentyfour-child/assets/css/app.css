@@ -24,3 +24,9 @@ body{
 h1, h2, h3, p {
     color: black;
 }
+
+/* Footer texts */
+p.has-text-align-center {
+    text-align: center;
+    color: white;
+}
