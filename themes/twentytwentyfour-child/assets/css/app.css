@@ -145,6 +145,13 @@ a:where(:not(.wp-element-button)) {
     color: white;
 }
 
+/*?Posts */
+/* Body */
+.wp-block-group.alignfull.has-background.is-layout-flow.wp-block-group-is-layout-flow {
+    background-color: #feffd7 !important;
+    margin-bottom: 0;
+}
+
 
 
 
