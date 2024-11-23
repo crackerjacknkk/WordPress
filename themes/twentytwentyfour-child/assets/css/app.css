@@ -38,3 +38,8 @@ a.wp-block-post-excerpt__more-link {
 a.wp-block-post-excerpt__more-link:hover {
     color: rgb(255, 0, 0);
 }
+
+/* Figure caption */
+figcaption.wp-element-caption {
+    color: black;
+}
