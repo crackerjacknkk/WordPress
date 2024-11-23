@@ -14,3 +14,8 @@ body{
     background-color: antiquewhite;
     color: black !important;
 }
+
+/* Home page title */
+.has-base-2-color {
+    color: #000000 !important;
+}
