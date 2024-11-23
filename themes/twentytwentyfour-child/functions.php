@@ -6,11 +6,20 @@
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  */
 
-// Enqueue child theme styles
+// Enqueue child theme main styles.
+// This function tells WordPress to include a CSS file for the website.
 function child_wp_enqueue_scripts() {
     wp_enqueue_style(
         'child-style',
         get_stylesheet_uri()
     );
+    
+    if ( is_user_logged_in() ) {
+        wp_enqueue_style(
+            'app-style', 
+            get_stylesheet_directory_uri() . '/assets/css/app.css'
+        );
+    }
+    
 }
 add_action('wp_enqueue_scripts', 'child_wp_enqueue_scripts');
