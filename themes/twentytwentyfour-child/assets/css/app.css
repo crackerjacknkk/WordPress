@@ -169,6 +169,15 @@ a:where(:not(.wp-element-button)) {
     border: rgb(0, 27, 115) solid 2px!important;
 }
 
+/* Post link */
+div > .taxonomy-category.wp-block-post-terms a {
+    color: black !important;
+}
+/* Post authour name */
+div > .wp-block-post-author-name a {
+    color: black !important;
+}
+
 
 
 
