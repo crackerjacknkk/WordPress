@@ -101,3 +101,9 @@ figcaption.wp-element-caption {
     padding: 5% !important;
     border-radius: 3px !important;
 }
+
+/* Blog */
+/* Welcome heading */
+.wp-block-heading.has-text-align-center.is-style-default.has-background.has-x-large-font-size {
+    background-color: #ff6074 !important;
+}
