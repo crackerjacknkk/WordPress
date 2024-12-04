@@ -144,6 +144,12 @@ a:where(:not(.wp-element-button)) {
 .wp-block-group.has-base-2-color.has-text-color.has-background.has-link-color.wp-elements-e07668afcc7a37c24479ce5997deec63.has-global-padding.is-layout-constrained.wp-container-core-group-is-layout-6.wp-block-group-is-layout-constrained p {
     color: white;
 }
+.wp-block-group.has-base-2-color.has-text-color.has-background.has-link-color.wp-elements-b7d764f87a6a2e530d6730f6beb0ea72.has-global-padding.is-layout-constrained.wp-container-core-group-is-layout-6.wp-block-group-is-layout-constrained {
+    background-color: #ffffff !important;
+    border: black solid 2px !important;
+    margin-top: 60px !important;
+}
+
 
 /*?Posts */
 /* Body */
